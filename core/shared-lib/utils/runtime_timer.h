@@ -18,6 +18,7 @@
 #define LIB_BASE_RUNTIME_TIMER_H_
 
 #include "bh_platform.h"
+#include <stdbool.h>
 
 #ifdef __cplusplus
 extern "C" {

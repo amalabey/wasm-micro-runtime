@@ -18,6 +18,7 @@
 #define WASM_HASHMAP_H
 
 #include "bh_platform.h"
+#include <stdbool.h>
 
 
 #ifdef __cplusplus

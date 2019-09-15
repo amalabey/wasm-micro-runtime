@@ -31,6 +31,7 @@
 #define _WASM_LOG_H
 
 #include "bh_platform.h"
+#include <stdbool.h>
 
 
 #ifdef __cplusplus

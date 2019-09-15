@@ -34,6 +34,10 @@ extern "C" {
 #define BHT_NO_WAIT 0x00000000
 #define BHT_WAIT_FOREVER 0xFFFFFFFF
 
+struct k_mutex {
+	int owner_orig_prio;
+};
+
 /**
  * vm_thread_sys_init
  *    initiation function for beihai thread system. Invoked at the beginning of beihai intiation.

@@ -15,6 +15,7 @@
  */
 
 #include "bh_platform.h"
+#include <stdbool.h>
 
 
 static bool sort_flag = false;

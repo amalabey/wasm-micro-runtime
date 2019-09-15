@@ -20,6 +20,7 @@
 #include "bh_platform.h"
 #include "wasm_hashmap.h"
 #include "wasm_assert.h"
+#include <stdbool.h>
 
 #ifdef __cplusplus
 extern "C" {

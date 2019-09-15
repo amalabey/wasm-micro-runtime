@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+#include <stdbool.h>
+
 #ifndef _WASM_NATIVE_H
 #define _WASM_NATIVE_H
 

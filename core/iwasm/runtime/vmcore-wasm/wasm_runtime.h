@@ -20,6 +20,7 @@
 #include "wasm.h"
 #include "wasm_thread.h"
 #include "wasm_hashmap.h"
+#include <stdbool.h>
 
 #ifdef __cplusplus
 extern "C" {

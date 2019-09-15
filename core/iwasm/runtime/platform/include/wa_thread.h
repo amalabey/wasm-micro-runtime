@@ -28,6 +28,7 @@ extern "C" {
 #endif
 
 #include "bh_thread.h"
+#include <stdbool.h>
 
 
 #define ws_thread_sys_init vm_thread_sys_init

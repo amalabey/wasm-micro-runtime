@@ -15,9 +15,9 @@
  */
 
 #include "wasm_log.h"
-
 #include "wasm_platform_log.h"
 #include "wasm_thread.h"
+#include <stdbool.h>
 
 
 /**
